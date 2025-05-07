@@ -12,9 +12,7 @@ internal class Program
         {
             if (args.Length > 1)
             {
-
-                reader.FindArgOccurencies(args[0], args[1]);
-                
+                reader.FindArgOccurencies(args[0], args[1]);   
             } 
             else
             {
