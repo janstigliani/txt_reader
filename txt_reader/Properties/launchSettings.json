@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "txt_reader": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Users\\\\Jan\\\\Desktop\\\\Full stack exercise\\\\c#\\\\testDocument.txt\"\r\nfunziona"
+    }
+  }
+}
